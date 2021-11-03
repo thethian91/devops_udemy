@@ -23,4 +23,5 @@ Opcional:
 - Git
 - Ide de desarrollo (VSCode) 
 
-
+Email
+> TheThian91@gmail.com
